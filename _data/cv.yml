@@ -1,189 +1,230 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Najmus Sadat Khan
+  label: Water Resources Researcher & Consultant
+  email: sadatrk75@gmail.com
+  location: Dhaka, Bangladesh
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Water resources professional working across climate science research (marine heatwaves, Time of Emergence analysis, CMIP6 projections) and applied hydrology and flood risk consulting on ADB- and BEZA-funded infrastructure projects in Bangladesh. Expert Reviewer for the IPCC AR7 Report (First Order Draft).
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: sadatrk
+    - network: Email
+      username: sadatrk75@gmail.com
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: ""
+    city: Dhaka
+    region: Dhaka Division
+    postalCode: "1216"
+    countryCode: BD
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Institute of Water and Flood Management (IWFM), Bangladesh University of Engineering and Technology (BUET)
+        location: Dhaka, Bangladesh
+        url: https://iwfm.buet.ac.bd/
+        area: Water Resources Development
+        studyType: M.Sc.
+        start_date: 2023
+        end_date: 2026
+        score: "3.17/4.00 (in progress)"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: Quantifying the Time of Emergence and Associated Uncertainties of Climate Change in Bangladesh using CMIP6 Projections"
+          - "Advisor: Prof. A.K.M. Saiful Islam"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Military Institute of Science & Technology (MIST), Bangladesh University of Professionals
+        location: Dhaka, Bangladesh
+        area: Civil & Water Resources Engineering
+        studyType: B.Sc.
+        start_date: 2018
+        end_date: 2022
+        score: "3.13/4.00"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: A Study on Climate-Induced Flood Inundation of Buriganga River Under Shared Socio-Economic Pathway (SSP) Scenarios"
+          - "Advisor: Prof. AFM Saleh"
+          - "President, MIST Environment Club (April 2021 – April 2022)"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: EQMS Consulting Limited
+        position: Water Resources Consultant
+        location: Dhaka, Bangladesh
+        start_date: 2026
+        end_date: Present
+        summary: Consulting on ADB- and BEZA-funded infrastructure and flood risk assessment projects in Bangladesh.
         highlights:
-          - Relativity
-          - Description 2.
+          - Flood risk assessment for coastal infrastructure projects
+          - Hydrological report preparation and data processing pipelines
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: EIMS Ltd
+        position: Associate Water Resources Engineer
+        location: Dhaka, Bangladesh
+        start_date: 2025-01
+        end_date: 2026
+        summary: Led hydrological modelling and anticipatory action trigger development for a WFP-funded project.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Led hydrological modelling across multiple hilly river basins for flash flood hazard characterization and trigger mechanism analysis
+          - Developed Anticipatory Action (AA) trigger indices for flash floods, heatwaves, and droughts linked to Climate Risk Insurance payout mechanisms
+          - Applied Combined Drought Index (CDI) analysis with probabilistic uncertainty quantification for operational risk thresholds
+          - Designed anticipatory action protocols integrating vulnerability, exposure, and insurance asset data
+          - Conducted floodplain and wetland inundation analysis using Google Earth Engine, Sentinel-1 SAR, and NDVI-based indices
+          - Facilitated community-level consultations (FGD/KII) to assess local climate risks and coping capacities
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Red Cross Red Crescent Climate Centre (RCCC)
+        position: Junior Researcher (Internship)
+        location: The Hague, Netherlands (Remote)
+        start_date: 2024-05
+        end_date: 2024-12
+        summary: Supported anticipatory action protocol development for cyclone, flood, and flash flood hazards.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Developed trigger thresholds using ensemble forecast data; produced forecast monitoring formats and situation reports
+          - Conducted storm surge mapping and cyclone risk analysis for international humanitarian preparedness
+          - Assessed societal vulnerability to natural hazards through historical impact data review and exposure analysis
+          - Coordinated with government agencies to improve dissemination of flood and cyclone early warnings
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: EIMS Ltd
+        position: Assistant Water Resources Engineer
+        location: Dhaka, Bangladesh
+        start_date: 2022-05
+        end_date: 2024-04
+        summary: Groundwater modelling and drought prediction for the Bangladesh Water Development Board (BWDB) under a World Bank-funded project.
+        highlights:
+          - Developed and implemented MODFLOW groundwater models and drought prediction models for BWDB
+          - Conducted hydrological assessments and vulnerability mapping for Northwest Bangladesh; fieldwork in coastal Khulna for aquifer characterization
+          - Reviewed and recommended improvements to the countrywide groundwater monitoring network for BWDB
+          - Simulated surface water-groundwater interactions and salinity intrusion dynamics in coastal river systems
+          - Conducted field visits across 14 coastal districts to analyze climate risks and community preparedness for cyclones
+          - Developed local-level thresholds for flash floods in the Haor region to enable timely evacuation and asset protection
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Imminent emergence of permanent marine heatwave states across global oceans
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Najmus Sadat Khan
+          - Hamza Ibn Mujib
+          - Zahid Imtiaz
+          - A. K. M. Saiful Islam
+          - Thomas L. Frölicher
+          - Robert Wilson
+          - Juliane U. Wihsgott
+          - Mohammad Kamaruzzaman
+        publisher: "Earth's Future (AGU)"
+        releaseDate: 2026
+        summary: "Status: Under review (1st revision submitted)."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Performance assessment of CMIP6 models in reproducing Bangladesh's rainfall and temperature using MCDM ensembles and individual GCMs
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Najmus Sadat Khan
+          - Zahid Imtiaz
+          - M. Shahjahan Mondal
+        publisher: Theoretical and Applied Climatology
+        releaseDate: 2026
+        summary: "Status: Under peer review."
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Developing drought and heatwave scenarios for southwest Bangladesh using CMIP6 projections
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Zahid Imtiaz
+          - M. Shahjahan Mondal
+          - Najmus Sadat Khan
+        publisher: International Journal of Climatology
+        releaseDate: 2026
+        summary: "Status: With editor."
+
+      - title: Spatiotemporal dynamics of warming level and Time of Emergence of climate extremes in Bangladesh
+        authors:
+          - Najmus Sadat Khan
+          - A. K. M. Saiful Islam
+          - Hamza Ibn Mujib
+          - Zahid Imtiaz
+        publisher: Climatic Change (in preparation)
+        releaseDate: 2026
+        summary: In preparation, based on M.Sc. thesis.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Hydrological & Hydraulic Modelling
+        level: Advanced
+        icon: fa-solid fa-water
+        keywords: "HEC-HMS, HEC-RAS (1D/2D), SWMM, Delft-3D, MODFLOW-6, HEC-GeoHMS, EPANET"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Climate Data & Modelling
+        level: Advanced
+        icon: fa-solid fa-cloud
+        keywords: "CMIP6 multi-model ensembles, NetCDF processing, EQM bias correction, LOWESS smoothing, ANOVA uncertainty decomposition"
 
-      - name: English
-        summary: "Fluent"
+      - name: Programming & Data Analysis
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python (Xarray, NumPy, Pandas, Matplotlib, Scikit-learn), R, VBA"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: GIS & Remote Sensing
+        level: Advanced
+        icon: fa-solid fa-map
+        keywords: "ArcGIS, QGIS, Google Earth Engine, Sentinel-1 SAR, CHIRPS, HydroSHEDS, AutoCAD"
+
+      - name: Machine Learning
+        level: Intermediate
+        icon: fa-solid fa-brain
+        keywords: "Supervised learning, regression and classification"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Oxford School of Climate Change
+        date: 2025-01-01
+        issuer: Oxford Climate Society
+        icon: fa-solid fa-graduation-cap
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Green Skills for Climate Change Professionals
+        date: 2025-01-01
+        issuer: University of Liberal Arts Bangladesh (ULAB), Center for Sustainable Development
+        icon: fa-solid fa-leaf
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Climate Data Analysis with Python
+        date: 2024-03-01
+        issuer: UK Centre for Ecology & Hydrology (UKCEH)
+        icon: fa-solid fa-code
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Supervised Machine Learning; Regression and Classification
+        date: 2022-08-01
+        issuer: DeepLearning.AI & Stanford University (Coursera)
+        icon: fa-solid fa-brain
+
+      - name: GIS Data Formats, Design and Quality
+        date: 2022-01-01
+        issuer: University of California, Davis (Coursera)
+        icon: fa-solid fa-map
+
+      - name: Stormwater Modelling with GeoSWMM
+        date: 2022-01-01
+        issuer: Streams Tech Ltd & Dept of EWCE, MIST
+        icon: fa-solid fa-droplet
+
+    Teaching:
+      - company: Bangladesh Water Development Board (BWDB)
+        position: Trainer
+        location: Dhaka, Bangladesh
+        start_date: 2023-11
+        end_date: 2023-12
+        summary: Delivered training on data processing, model development, calibration, validation, and forecasting for groundwater modelling using MODFLOW, salinity intrusion prediction, and drought prediction modelling using machine learning.
+
+      - company: Bangladesh Red Crescent Society (BDRCS)
+        position: Trainer
+        location: Dhaka, Bangladesh
+        start_date: 2024-01
+        end_date: 2024-01
+        summary: Provided training on household survey data collection using KOBO Toolbox for the National EAP for Cold Wave Project.
+
+      - company: FAO Representation in Bangladesh
+        position: Trainer
+        location: Banani, Dhaka
+        start_date: 2024-04
+        end_date: 2024-04
+        summary: "Conducted a day-long technical training session, \"Training on Drought Anticipatory Action Trigger Modelling,\" under the ICSAASPS project. Delivered hands-on exercises for Aman and Boro crop phases using Python-based drought trigger modelling and Combined Drought Index (CDI) analysis."
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Prof. A.K.M. Saiful Islam
+        icon: fa-solid fa-graduation-cap
+        reference: "Professor, Institute of Water and Flood Management (IWFM), Bangladesh University of Engineering and Technology (BUET). Email: akmsaifulislam@iwfm.buet.ac.bd"
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. Md. Abul Fazal
+        icon: fa-solid fa-briefcase
+        reference: "Groundwater Expert, Environment and Infrastructure Management Solution (EIMS) Ltd. Email: mdabulfazal@yahoo.com"
