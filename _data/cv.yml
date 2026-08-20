@@ -4,7 +4,7 @@ cv:
   email: sadatrk75@gmail.com
   location: Dhaka, Bangladesh
   image: ""
-  summary: Water resources professional working across climate science research (marine heatwaves, Time of Emergence analysis, CMIP6 projections) and applied hydrology and flood risk consulting on ADB- and BEZA-funded infrastructure projects in Bangladesh. Expert Reviewer for the IPCC AR7 Report (First Order Draft).
+  summary: Water resources professional working across climate science research (marine heatwaves, Time of Emergence analysis, CMIP6 projections) and applied hydrology and flood risk consulting on funded infrastructure projects in Bangladesh. Expert Reviewer for the IPCC AR7 Report (First Order Draft).
 
   social_networks:
     - network: LinkedIn
@@ -53,7 +53,7 @@ cv:
         location: Dhaka, Bangladesh
         start_date: 2026
         end_date: Present
-        summary: Consulting on ADB- and BEZA-funded infrastructure and flood risk assessment projects in Bangladesh.
+        summary: Consulting on flood risk assessment projects in Bangladesh.
         highlights:
           - Flood risk assessment for coastal infrastructure projects
           - Hydrological report preparation and data processing pipelines
